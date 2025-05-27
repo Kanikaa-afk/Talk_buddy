@@ -4,7 +4,7 @@ import random
 
 # Setup OpenRouter client using your API key and base URL
 client = OpenAI(
-    api_key="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",
+    api_key="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",
     base_url="https://openrouter.ai/api/v1"
 )
 
